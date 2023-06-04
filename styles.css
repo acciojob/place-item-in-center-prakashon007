@@ -1,2 +1,13 @@
-
+*{
+	margin:0;
+	padding:0;
+	
+}
+.holder{
+	display:flex;
+	justify-content:center;
+	background:black;
+	color:white;
+		
+}
 /* Your CSS Code here. */
